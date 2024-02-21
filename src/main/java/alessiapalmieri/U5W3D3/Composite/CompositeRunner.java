@@ -38,4 +38,3 @@ public class CompositeRunner implements CommandLineRunner {
         System.out.println("Total number of pages in the book: " + book.getTotalPages());
     }
     }
-}
